@@ -1,0 +1,1 @@
+Week 2 Fail Log: I had to complete all this week's work today. Not doing that for next week. I completed all 3 exercises and suprisingly didn't have too many issues. At this stage I think I am understanding how to hand in deliverables. Only major problem I had was the setting up of the DHbox as my cpu froze for a while.
