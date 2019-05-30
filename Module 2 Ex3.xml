@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="000style.xsl"?>
+<teiCorpus>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digitised and Encoded copy of Negro Slavery by Zachary MacAulay</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Transcribed from digital copy available from Recovered Histories at
+                    http://www.recoveredhistories.org/pamphlet1.php?page=1&amp;orderby=MaxID&amp;catid=66</authority>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Negro Slavery; or, A View of Some of the More Prominent Features of
+                            that State of Society, as it Exists in the United States of America and
+                            in the Colonies of the West Indies, Especially in Jamaica</title>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Printed for Hatchard and Son, Piccadilly, and J. and A. Arch,
+                            Cornhill</publisher>
+                        <distributor>Sold Also by W. Graphel, Church street, and G. and J. Robison,
+                            Castle Street, Liverpool.</distributor>
+                        <date when="1823">1823</date>
+                        <pubPlace>
+                            <settlement>London</settlement>
+                        </pubPlace>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title/>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Transcribed by a student of Digital History at Sheffield Hallam
+                        University</authority>
+                </publicationStmt>
+                <sourceDesc>
+                    <bibl>
+                        <biblScope>43</biblScope>
+                    </bibl>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>adopting this conclusion on insufficient grounds, we shall specify some particulars, of vital importance to the well-being of the Negro reace, in which there is manifestly no real improvement. <p> 1. The Negroes in Jamaica are still driven at their work by the impulse of the carl-whip, as cattle or horses are driven in this country. - This fact is undeniable. But let us only consider for one moment all the depressing and brutalizing side effects of such a system, - a system which shuts out the Negro from even the pretence to a higher motive for exertion than the fear of the lash, and which extracts labour from him, not in the measure which his strength affords, or his interest prompts , but in the measure which an overseer or a driver may choose to draw from him by impending terror or the actual infliction of corporal punishment; - let us only consider this one feature of coloniad bondage, and we shall at once see enough to account for more than half od its multiplied evils.* <p> * The following description of the driving system has been given by one who was long an eye-witness of its practical operation. It is contained in a pamphlet, publishes by <persName key="Hatchard, William" from="1834" to="1912" role="Negro Philosopher" ref="http://www.website.com/webpage.html">Hatchard in 1802, entitled "The Crisis of the Sugar Colonies."(p.8-13.)<p> "That West India Slaves, whether French or English, are the property of their master, and transferable by him, like his inanimate effects; that in general he is absolute ariter of the extent and the mode of their labout, and of the quantity of subsistence to be given in return for it; and that they are disciplined and punished at his discretion, direct privation of life or member excepted : these are prominent features, and sufficiently known, of the state of slavery. Not is the manner in which the labour of the slaves is conducted a matter of less publicity. Everyman who has heard any thing of West Indian affairs, is aquainted with the term Negro-drivers, and knows, or may know, that the slaves, in their ordinary field-labours, are driven to their work, in the strict sense of the term 'driven' is used in Europe: though this statemnt no more involves an intimation, that, in practice, the lash is incessantly, or with any needless frequency, applied to their back , then the phrase  'to drive a team of horses' imports, that the waggoner is continually smacking his whip. <p>  
+                
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>
