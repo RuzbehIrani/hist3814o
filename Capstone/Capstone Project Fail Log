@@ -1,0 +1,51 @@
+Capstone Fail Log:
+This week was a success as I was able to complete the capstone project with my team made up of Matthias and Maggie. 
+I did have a bit of an issue with the research content. There was very limited content and some was questionable online.
+
+I broke up my components of the capstone project up into 3 parts:
+0. Setting up GitHub with group members.
+1. HTML code semantics refresher
+2. Research
+3. Research synthesis
+4. Embedding text into HTML
+
+0. Setting up GitHUb with group members.
+I know this was mentioned during the setup stages of this course, but having the ability to make changes and track them on
+github without losing old changes is amazing. I only discovered that you can create seperate branches for your group members 
+to see their changes but not change the group's work (saved in a seperate branch). Maggie, Matthias and I sat down and created
+multiple branches allowing us to push our changes over to Maggie without any issues of copying links and changing links etc.
+
+1. HTML code semantics refresher
+
+Mainly learned how html works through practice. The initial exercises during the term were helpful but actually sitting down 
+and coding it made it stick in my mind better.I went through many lines of the sites code from GitHub and saw how it changed the site
+we were exploring. I didn't understand some of it initially but the annotations were helpful and so were Maggie's notes.
+One thing I did forget about was the code used for the sizing of headers. The  size goes from large H1 to small H3, H4 etc. 
+When my group members wanted to change it from a larger to a smaller font, I went up the H value to H3 instead of H4. Tricky. 
+Another usesful tip in the code was the line code. This can seperate text on a site with a subtle faded out line.
+
+2. Research 
+
+This portion of the work was pretty straightforward. There were a few bumps in the road, I must say. One thing that was brought
+to my attention were the number of similar "search results" leading to information with similar search text but were completely
+unrelated or talking about something similar but in another country. It is important to use appropriate key terms when searching 
+for information. 
+
+3. Research Synthesis
+
+As in the previous stage, this was pretty straightforward. Take the information in the research stage and use what is appropriate
+for what is on the site. I did have some issues with google docs mixing up some of the text I was writing with my research but 
+I seemed to have fixed it as it was a formating error with the margins.
+
+4. Embedding Text Into HTML
+
+Initially this seemed to be the most daunting task when I first opened up the sites code. Then I came to realize how easy it is to
+do and change information. I knew the HTML code semantics refresher would help. I began to copy my text into the code on GitHub.
+When pasting I forgot about the symbol <p> and </p> to seperate each paragraph so while hunting for the text I was going to add to0,
+I missed them all as I didn't know they were spread all along the horizontal. I guess this reduced the amount of lines needed. 
+I had to make changes to the font headers and add my references. The references format had me a bit confused but Matthias cleared
+it up for me with an exaple.
+
+
+
+
