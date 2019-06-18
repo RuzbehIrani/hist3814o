@@ -8,12 +8,15 @@ I broke up my components of the capstone project up into 3 parts:
 2. Research
 3. Research synthesis
 4. Embedding text into HTML
+5. Taking the site further
 
 0. Setting up GitHUb with group members.
 I know this was mentioned during the setup stages of this course, but having the ability to make changes and track them on
 github without losing old changes is amazing. I only discovered that you can create seperate branches for your group members 
 to see their changes but not change the group's work (saved in a seperate branch). Maggie, Matthias and I sat down and created
-multiple branches allowing us to push our changes over to Maggie without any issues of copying links and changing links etc.
+multiple branches allowing us to push our changes over to Maggie without any issues of copying links and changing links etc. In
+our case we had 5 branches. 3 for the members work to be saved seperately and on main branch and one testing branch. This 
+helped organize and run through our work's progress efficiently.
 
 1. HTML code semantics refresher
 
@@ -28,8 +31,9 @@ Another usesful tip in the code was the line code. This can seperate text on a s
 
 This portion of the work was pretty straightforward. There were a few bumps in the road, I must say. One thing that was brought
 to my attention were the number of similar "search results" leading to information with similar search text but were completely
-unrelated or talking about something similar but in another country. It is important to use appropriate key terms when searching 
-for information. 
+unrelated or talking about something similar but in another country. I noticed this in one of my google searches where it brought
+me to a link about Kansas's uranium plant with similar words like "Elliot" in it. It is important to use appropriate key terms 
+when searching for information. 
 
 3. Research Synthesis
 
@@ -44,8 +48,16 @@ do and change information. I knew the HTML code semantics refresher would help. 
 When pasting I forgot about the symbol <p> and </p> to seperate each paragraph so while hunting for the text I was going to add to0,
 I missed them all as I didn't know they were spread all along the horizontal. I guess this reduced the amount of lines needed. 
 I had to make changes to the font headers and add my references. The references format had me a bit confused but Matthias cleared
-it up for me with an exaple.
+it up for me with an example.
 
+5. Taking the site further
+
+The site could use more improvement. When I initially worked through the site to see what I will be researching, I found that 
+it was very boring to read and navigate through affecting the user's experience. To enhance this I thought of eliminating the 
+need for seperate pages and creating a larger popup for the navigation nodes on the map. These pop ups would have subheadings to
+help guide the user to what exact inforamtion they are looking for an retrieve it without having to navigate to a new page.
+I am not to sure how to do this but the second change would be adding gradients. This helps the readers eyes transition from 
+one part of the page to the next without the color blocks.
 
 
 
